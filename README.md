@@ -68,7 +68,6 @@ $ docker run -d eu.gcr.io/$environment/frontend-propitix:$tag-version
 
 Default web root:
 
-# TestingProject9 in Jenkins Webhook
 ```
 /usr/share/nginx/html
 ```
